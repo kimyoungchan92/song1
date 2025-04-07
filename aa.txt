@@ -1,7 +1,3 @@
 오늘은 월요일 1차 작업추가 내용입니다!!
-aaaaaaaaaaa
-aaaaaaaaaaaaaaaaa
-
-///이부분은 김기동이 추가 작업한 내용입니다.
-
-kimkimkimkimkimkimkimkimkimkimkim
+오늘은 깃허브 수업을 합니다.
+처음으로 깃허브에 화일을 올립니다.
